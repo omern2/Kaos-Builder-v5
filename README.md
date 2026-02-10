@@ -1,6 +1,5 @@
 # ☣️ KAOS BUILDER v5.1 | ULTIMATE TROLL FACTORY ☣️
 
-![Kaos Banner](image_1ee21a.jpg)
 
 **KAOS BUILDER**, Windows sistemleri için geliştirilmiş, 40'tan fazla modüle sahip, tamamen Türkçe ve modern arayüzlü bir şaka (troll) dosyası oluşturucudur. 
 
@@ -10,8 +9,6 @@
 Projemizin v5.1 sürümünde, kullanıcı geri bildirimleri doğrultusunda karanlık temada görünmeyen siyah kutucuklar tamamen düzeltilmiş ve beyaz, belirgin tiklerle görsel konfor artırılmıştır.
 
 | Eski Sürüm (v5.0) | Yeni Sürüm (v5.1) |
-| :---: | :---: |
-| ![Eski Arayüz](image_1f52bf.png) | **Beyaz Tikler & Modern Tasarım** |
 
 ---
 
@@ -56,7 +53,3 @@ Projeyi en verimli şekilde kullanabilmeniz için hazırlanan **Full Pack ZIP** 
 ## ⚠️ Yasal Uyarı (Disclaimer)
 Bu yazılım **tamamen eğitim ve şaka amaçlı** geliştirilmiştir. Kullanıcıların bu araçla yapacağı işlemlerden veya vereceği zararlardan tamamen kendileri sorumludur. Geliştirici hiçbir sorumluluk kabul etmez. **Sadece kendi cihazlarınızda veya izin aldığınız ortamlarda test edin!**
 
----
-
-**Linkler:**
-[📁 Son Sürümü İndir (Releases)](https://github.com/KULLANICI_ADIN/PROJE_ADIN/releases) | [⭐ Yıldız Vermeyi Unutma](#)
