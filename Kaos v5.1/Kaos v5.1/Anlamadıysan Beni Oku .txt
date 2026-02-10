@@ -1,0 +1,12 @@
+📄 KURULUM REHBERİ (Beni Oku)
+1. Python Kur: Paket içindeki python-installer.exe dosyasını çalıştır.
+
+⚠️ DİKKAT: Kurulum başlarken alttaki "Add Python to PATH" kutucuğunu mutlaka işaretle!
+
+2. Builder'ı Aç: Kaos_Builder_v5.1.exe dosyasına sağ tıkla ve "Yönetici Olarak Çalıştır" de.
+
+3. EXE Üret: Özellikleri seç, ismini yaz ve "EXE OLUŞTUR" butonuna bas. Dosyan dist klasörüne gelecektir.
+
+Özet: PATH işaretlemeyi unutma, yönetici olarak çalıştır, kaosun tadını çıkar! ☣️
+
+Başka bir isteğin var mı? Proje artık %100 hazır!
